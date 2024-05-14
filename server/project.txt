@@ -1,0 +1,19 @@
+/* Package Dependencies
+1. express
+2. axios
+3. cookie-parser
+4. cors
+5. express-mongo-sanitize
+6. express-rate-limit
+7. form-data
+8. helmet
+9. hpp
+10. jsonWebToken
+11. mongoose
+12. nodemailer
+13. xss-clean
+14. morgan
+
+/* Package Development Dependencies
+1. nodemon
+2. chalk
